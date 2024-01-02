@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://cdn.discordapp.com/attachments/1179196101702733875/1191357129446150164/GoodBye.png?ex=65a524ca&is=6592afca&hm=55fdc2bf245e36173908ba2259982f7353311a5810744043687b5d3fe6022232&');
+    background-size: cover;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.main-content {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
